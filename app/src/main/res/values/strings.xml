@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Heady</string>
+    <string name="categories">Categories</string>
+    <string name="ranking">Ranking</string>
+    <string name="display_products">Display Products</string>
+    <string name="product_name">Product Name</string>
+    <string name="prod_id">Product ID</string>
+    <string name="product_date_added">Product Date Added</string>
+
+    <string name="variant_id">Variant ID </string>
+    <string name="variant_size">Variant Size</string>
+    <string name="variant_price">Variant Price</string>
+    <string name="variant_color">Variant Color</string>
+
+    <string name="no_products_found">No Products Found</string>
+
+    <string name="ranking_type">Ranking Type</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/categories"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="@string/categories" />
+
+    <item
+        android:id="@+id/ranking"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/ranking" />
+
+</menu>
